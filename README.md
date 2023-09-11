@@ -8,14 +8,14 @@ The detail of datasets is described in our paper.
 
 The structure of 'dataset' is as follows:
 
-├── Image_dataset
-│ 　　　 ├── real ： images for real dataset
-│ 　　　 ├── augmentation ： images for augmentation dataset
-│ 　　　 └── synthetic ： images for augmentation dataset
+├── Image_dataset 
+│ 　　　 ├── real ： images for real dataset 
+│ 　　　 ├── augmentation ： images for augmentation dataset 
+│ 　　　 └── synthetic ： images for augmentation dataset 
 └── Labels
-　　　　├── real.txt ：labels for real dataset
-　　　　├── augmentation.txt ：labels for augmentation dataset
-　　　　└── synthetic.txt ：labels for synthetic dataset
+　　　　├── real.txt ：labels for real dataset 
+　　　　├── augmentation.txt ：labels for augmentation dataset   
+　　　　└── synthetic.txt ：labels for synthetic dataset  
     
 
 
