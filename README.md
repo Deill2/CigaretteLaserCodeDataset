@@ -1,6 +1,8 @@
 # CigaretteLaserCodeDataset
 
-Cigarette Laser Code Recognition Dataset built for our paper 
+Cigarette Laser Code Recognition Dataset built for our paper.
+
+please refer to our paper :
 Wei Zhou，Li Zheng, Xiangchengzhen Li , Zaidao Yang , Jun Yi. CLCRNet：An Optical Character Recognition Network for Cigarette Laser Code[J]. IEEE transactions on instrumentation and measurement. 2024. doi:10.1109/TIM.2024.3375403.
 https://xplorestaging.ieee.org/document/10465655.
 
